@@ -1,3 +1,5 @@
+<hr/><hr/>
+
 # First run this code in your vs ocde rerminal
 
 npm install react-scripts --save
@@ -6,7 +8,7 @@ npm install react-scripts --save
 
 npm start
 
-
+<hr/><hr/>
 
 # Getting Started with Create React App
 
