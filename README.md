@@ -1,4 +1,4 @@
-### First run this code in your vs ocde rerminal
+# First run this code in your vs ocde rerminal
 
 npm install react-scripts --save
 
