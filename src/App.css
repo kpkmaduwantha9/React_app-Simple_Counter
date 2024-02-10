@@ -1,0 +1,54 @@
+.title{
+  font-size: 45px;
+  font-family: Cascadia Mono;
+}
+
+.subTitle {
+  font-size: 25px;
+  font-family: Cascadia Mono;
+}
+
+.button{
+  font-size: 20px;
+  display: inline-block;
+  padding: 15px 25px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  background-color: rgb(139, 137, 137);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  margin: 3px;
+}
+
+.button:hover {
+  background-color: rgb(155, 38, 38);
+  color: #fff;
+}
+
+.button:active {
+  box-shadow: 0 5px #c46f00;
+  transform: translateY(4px);
+  background-color: rgb(255, 174, 0);
+}
+
+.div{
+  margin: 50px;
+  background-color: #dddddd;
+  width: 60%;
+  height: 300px;
+  border-radius: 15px;
+  display: flex;
+}
+
+.div:hover {
+  background-color: #d1d0d0;
+  border: 1px solid black;
+}
+
+.div2{
+  margin: 10%;
+}
