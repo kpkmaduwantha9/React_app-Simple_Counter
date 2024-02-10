@@ -1,3 +1,13 @@
+### First run this code in your vs ocde rerminal
+
+npm install react-scripts --save
+
+## after that
+
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
