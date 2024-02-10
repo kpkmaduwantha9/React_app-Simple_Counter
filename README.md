@@ -1,6 +1,6 @@
 <hr/><hr/>
 
-# First run this code in your vs ocde rerminal
+# First run this code in your vs code terminal
 
 npm install react-scripts --save
 
