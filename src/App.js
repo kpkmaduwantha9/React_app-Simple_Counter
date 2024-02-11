@@ -21,7 +21,7 @@ function App() {
     <div className='div'>
       <div className='div2'>
 
-        <span className='title'>My counter</span>
+        <span className='title'>My counter kp</span>
         <p className='subTitle'>The count is {count}</p>
         <button className='button' onClick={decrement}>-</button>
         <button className='button' onClick={increment}>+</button>
